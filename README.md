@@ -23,6 +23,9 @@ Với một ngân sách giới hạn (ví dụ: chỉ được chọn 10 ngườ
 ├── 📂 Report/
 │   └── Report.pdf
 │   └── Slide
+├── 📂 Source ảnh/
+├── 📂 Ms Project/
+│   └── MXH_Timeline.mpp
 ├── 📂 Tài liệu khác/
 │   └── Pipeline triển khai
 │   └── Sheet tiến độ
