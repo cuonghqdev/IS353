@@ -8,7 +8,7 @@
 - **Ngôn ngữ:** Python 3.8 trở lên.
 - **Môi trường:** VSCode (khuyên dùng) hoặc Terminal/Command Prompt.
 
-## 2. Cấu trúc Thư mục (Quan trọng)
+## 2. Cấu trúc Thư mục 
 Để ứng dụng chạy ổn định, vui lòng đảm bảo các file sau nằm trong **CÙNG MỘT THƯ MỤC**:
 
 ```text
